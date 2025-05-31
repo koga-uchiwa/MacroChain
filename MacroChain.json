@@ -9,11 +9,11 @@
     "RepoUrl": "https://github.com/koga-uchiwa/MacroChain",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
+    "DownloadLinkInstall": "https://github.com/koga-uchiwa/Macrooo/archive/refs/heads/master.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
-    "DownloadLinkUpdate": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
+    "DownloadLinkTesting": "https://github.com/koga-uchiwa/Macrooo/archive/refs/heads/master.zip",
+    "DownloadLinkUpdate": "https://github.com/koga-uchiwa/Macrooo/archive/refs/heads/master.zip",
     "DownloadCount": 0,
     "LastUpdate": "1748649600"
   }
