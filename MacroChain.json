@@ -1,7 +1,20 @@
-{
-  "Name": "MacroChain",
-  "Author": "koga-uchiwa",
-  "Punchline": "Enchaîne vos macros dans FFXIV",
-  "Description": "Permet d'utiliser les commandes /nextmacro et /runmacro dans vos macros pour passer à la macro suivante ou exécuter une macro spécifique.",
-  "RepoUrl": "https://github.com/koga-uchiwa/MacroChain"
-}
+[
+  {
+    "Author": "koga-uchiwa",
+    "Name": "MacroChain",
+    "Punchline": "Enchaîne vos macros dans FFXIV",
+    "Description": "Permet d'utiliser les commandes /nextmacro et /runmacro dans vos macros pour passer à la macro suivante ou exécuter une macro spécifique.",
+    "InternalName": "MacroChain",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/koga-uchiwa/MacroChain",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
+    "DownloadLinkUpdate": "https://github.com/koga-uchiwa/MacroChain/releases/latest/download/MacroChain.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1748649600"
+  }
+]
