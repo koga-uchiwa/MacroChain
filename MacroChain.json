@@ -1,7 +1,7 @@
 [
   {
     "Author": "koga-uchiwa",
-    "Name": "MacroChain",
+    "Name": "Macrooo",
     "Punchline": "Enchaîne vos macros dans FFXIV",
     "Description": "Permet d'utiliser les commandes /nextmacro et /runmacro dans vos macros pour passer à la macro suivante ou exécuter une macro spécifique.",
     "InternalName": "MacroChain",
